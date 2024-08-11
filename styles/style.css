@@ -1,0 +1,28 @@
+.btn-outlined {
+    border: 2px solid orange;
+    padding: 5px 30px;
+    color: orange;
+    background-color: white;
+}
+
+.btn-outlined:hover {
+    background-color: orange;
+    color: rgb(255, 255, 255);
+}
+
+.btn-contained {
+    border: 2px solid orange;
+    padding: 5px 25px;
+    color: white;
+    background-color: orange;
+}
+
+.btn-contained:hover {
+    color: orange;
+    background-color: white;
+}
+
+.divider {
+    border-top: 2px solid black;
+    width: 2rem;
+}
